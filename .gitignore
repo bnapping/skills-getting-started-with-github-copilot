@@ -41,3 +41,9 @@ Thumbs.db
 
 __pycache__/
 /.vs
+
+# FastAPI generator
+###################
+openapi-generator-cli.json
+/.openapi-generator
+/.jumia
